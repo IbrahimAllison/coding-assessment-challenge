@@ -12,7 +12,7 @@ The project contains HTML, CSS, and JavaScript codes.
 The user continues to respond to the on screen questions. When all the questions are answered, or the timer reaches 0 then the game is over and no more questions are displayed on the screen.
 
 **Credits/References**
-a. Starter code assistance received from the instructor. b. Codes retrieved from: https://github.com/njthanhtrang/4.-Web-APIs-Challenge-Code-Quiz
+a. Starter code assistance received from the instructor. b. Codes retrieved from: https://github.com/jamierachael/Code-Quiz
 
 **License MIT** 
 
