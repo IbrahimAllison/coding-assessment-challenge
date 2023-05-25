@@ -1,6 +1,7 @@
 # coding-assessment-challenge
 
 **Description**
+This is a quiz and a game as well. The objective of the challenge is to mirror the technial interview or the coding assessment that is used for testing a developer's coding knowledge, skills, and abilities.
 
 **Motivation for the Project**
 
