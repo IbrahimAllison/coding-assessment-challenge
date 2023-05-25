@@ -4,8 +4,11 @@
 This is a quiz and a game as well. The objective of the challenge is to mirror the technial interview or the coding assessment that is used for testing a developer's coding knowledge, skills, and abilities.
 
 **Motivation for the Project**
+I am motivated to see how assessment questions are coded. I am already thinking about creating a Computer Based Test for an elementary school after completing this project.
 
-**What Problem Does** 
+**What Problem Does it solve?** 
+It provides a solution on how to create a coding quiz for a technical coding interview scenario. It aims at simulating the coding interview experience.
+
 **Usage**
 The project contains HTML, CSS, and JavaScript codes. 
 
