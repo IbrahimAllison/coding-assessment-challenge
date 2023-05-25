@@ -13,6 +13,7 @@ The user continues to respond to the on screen questions. When all the questions
 
 **Credits/References**
 a. Starter code assistance received from the instructor. b. Codes retrieved from: https://github.com/jamierachael/Code-Quiz
+c. Quiz questions obtained from: https://www.w3schools.com/quiztest/quiztest.asp?qtest=JS
 
 **License MIT** 
 
