@@ -29,4 +29,5 @@ Here is the link: https://ibrahimallison.github.io/coding-assessment-challenge/
 See the screenshot of the deployed application below:
 ![image](https://github.com/IbrahimAllison/coding-assessment-challenge/assets/116689797/19a74d3e-efb5-42ef-87a1-f34fb4fb4d79)
 
+![image](https://github.com/IbrahimAllison/coding-assessment-challenge/assets/116689797/d42dae9f-8f06-4264-9012-9c9c436a4935)
 
