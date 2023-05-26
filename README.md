@@ -23,7 +23,10 @@ c. Quiz questions obtained from: https://www.w3schools.com/quiztest/quiztest.asp
 Mi License was used for creating this repository.
 
 **Link to the Deployed Application/Website:**
+Here is the link: https://ibrahimallison.github.io/coding-assessment-challenge/
 
-Here is the link to the deployed application: 
+**Screenshot of the Deployed Application**
+See the screenshot of the deployed application below:
+![image](https://github.com/IbrahimAllison/coding-assessment-challenge/assets/116689797/19a74d3e-efb5-42ef-87a1-f34fb4fb4d79)
 
-**Screenshot of the Deployed Application See the screenshot of the deployed application below:**
+
