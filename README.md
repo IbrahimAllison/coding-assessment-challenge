@@ -31,3 +31,6 @@ See the screenshot of the deployed application below:
 
 ![image](https://github.com/IbrahimAllison/coding-assessment-challenge/assets/116689797/d42dae9f-8f06-4264-9012-9c9c436a4935)
 
+![image](https://github.com/IbrahimAllison/coding-assessment-challenge/assets/116689797/ee26dd26-3a29-4020-845d-ed7f54f4b754)
+
+
