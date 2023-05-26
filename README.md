@@ -19,8 +19,7 @@ a. Starter code assistance received from the instructor. b. Codes retrieved from
 c. Quiz questions obtained from: https://www.w3schools.com/quiztest/quiztest.asp?qtest=JS
 
 **License MIT** 
-
-License was used for creating this repository.
+Mi License was used for creating this repository.
 
 **Link to the Deployed Application/Website:**
 
